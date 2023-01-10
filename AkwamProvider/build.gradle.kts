@@ -4,7 +4,7 @@ cloudstream {
     description = ""
     authors = listOf( "Blatzar" )
 	
-	language = "arB"
+	language = "ar"
 	
     status = 1
 
